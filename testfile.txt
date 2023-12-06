@@ -1,7 +1,4 @@
 This is the first file
-<<<<<<< HEAD
-This is for example
-This is another commit
-=======
+
+
 this is for the second file 
->>>>>>> cc99d8049ba1f27659217cf32a941e87420e5770
